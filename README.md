@@ -15,15 +15,15 @@ Done...
 
 Syntax:
 -------
-<pre>$ ./sensorupdater.py <prtg-srv-ip> <username> <password> <inifile></pre>
+<pre>$ ./sensorupdater.py <code><prtg-srv-ip> <username> <password> <inifile></code></pre>
 
 Mandatory arguments:
 --------------------
 <pre>
-<prtg-srv-ip>		: The IP or hostname of the prtg server.
-<username>			: Username for the logon on prtg.
-<password>			: The password
-<inifile>			: The filter file in json format
+<code><prtg-srv-ip></code>	: The IP or hostname of the prtg server.
+<code><username></code>		: Username for the logon on prtg.
+<code><password></code>		: The password
+<code><inifile></code>		: The filter file in json format
 </pre>
 	
 Output:
