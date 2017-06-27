@@ -1,0 +1,16 @@
+{
+	"item": {
+		"sensor": ["Temperatur Dataplane", "Temperatur Managementplane"],
+		"group": "Palo Alto",
+		"device": "%s012%"
+	},
+	"tag": {
+		"LimitMode": "1",
+		"LimitMaxError": "46",
+		"LimitMaxWarning": "44",
+		"LimitMinWarning": "",
+		"LimitMinError": "",
+		"LimitErrorMsg": "Temperatur hat 46°C überschritten",
+		"LimitWarningMsg": "Temperatur hat 44°C überschritten"
+	}
+}
